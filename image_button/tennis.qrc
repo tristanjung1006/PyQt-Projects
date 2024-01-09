@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>tennis_icon.ico</file>
+    <file>firefox_logo.png</file>
+    <file>edge_logo.png</file>
+    <file>chrome_logo.png</file>
+  </qresource>
+</RCC>
