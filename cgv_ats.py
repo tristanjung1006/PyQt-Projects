@@ -345,26 +345,6 @@ class ThreadClass(QtCore.QThread):
         # token = "6375642379:AAGLNSvdE17QCrFnATnvmCq5Qx6tA5Jc3VM"
         # chat_id = "6324662357"
 
-        # replace with your bot token and chat ID(cgvgood)
-        # token = "6414779156:AAEblOy-Y8HFbLyxziJlScTW1ZKico_pbpQ"
-        # chat_id = "5021031003"
-        # message = "예약에 성공했습니다."
-
-        # replace with your bot token and chat ID(kangpu_bot)
-        # token = "6519072084:AAG16KvwOStQvnlFjPD3fWsOrIDHJXUqgNk"
-        # chat_id = "5209913866"
-        # message = "예약에 성공했습니다."
-
-        # replace with your bot token and chat ID(sk80ybot)
-        # token = "6354019462:AAHSADLlmC7k-0jCmQb1y60K944lo_mxqBI"
-        # chat_id = "6516183745"
-        # message = "예약에 성공했습니다."
-
-        # replace with your bot token and chat ID(mimi26)
-        # token = "6219145472:AAHXTcd4s3X3B7aRdfBKe5z4V_sUuhymax4"
-        # chat_id = "5340068516"
-        # message = "예약에 성공했습니다."
-
         # response_check = send_telegram_message(token, chat_id, message)
         # print("원하는 좌석이 선택되었습니다.")
         # print(response_check)
